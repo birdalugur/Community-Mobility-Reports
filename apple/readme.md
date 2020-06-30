@@ -1,0 +1,5 @@
+## Bu Veriler Hakkında
+
+Bu sitedeki CSV dosyası ve grafikler; ülkeye/bölgeye, yöreye veya şehre göre yapılan yol tarifi isteklerinin 13 Ocak 2020’deki taban hacmine kıyasla göreceli hacmini gösterir. Günümüzü, Pasifik saatiyle gece yarısından sonraki gece yarısına kadar olan süre olarak tanımlarız. Şehirler, büyük metropoliten alanlar olarak tanımlanır ve coğrafi sınırları tüm veri setinde sabit kalır. Birçok ülke/bölge, yöre ve şehirde göreceli hacim, 13 Ocak tarihinden bu yana Apple Harita’nın normal mevsimlik kullanımıyla tutarlı bir şekilde artış göstermiştir. Bu verileri kullanırken haftanın günü etkileri, normalleştirmede önemlidir. Harita hizmetinden kullanıcıların aygıtlarına gönderilen veriler rastgele, dönen tanımlayıcılarla ilişkilendirilir böylece Apple, hareketlerinizin ve aramalarınızın profilini oluşturamaz. Apple Harita’da kullanıcılarımızın demografik bilgileri yer almaz; dolayısıyla kullanımımızın genel nüfustaki temsiliyle ilgili açıklamada bulunamayız.
+
+11-12 Mayıs verileri mevcut değil ve bu tarihler veri seti içinde boş sütunlar olarak görünecek.
